@@ -1,0 +1,33 @@
+/* Custom CSS for UI */
+body{
+	background-color:#80391e;
+}
+#charInput{
+	background-color:#edb879;
+}
+#charInput {
+	font-size: 22px;
+	height: 360px;
+	overflow: auto;
+	width: 8.5in;
+	padding: 1%;
+	word-wrap: break-word;
+	color: grey;
+}
+
+#preview {
+	border: 1px solid black;
+	height: auto;
+	overflow: auto;
+	width: 8.5in;
+	padding: 1%;
+	margin: 30px auto;
+	background-color: #e07b39;
+}
+#f{
+	align-content: center;
+	text-align: center;
+}
+#h{
+	color: honeydew;
+}
